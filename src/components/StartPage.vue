@@ -44,7 +44,7 @@ onMounted(() => {
 </script>
 <template>
     <div class="ps-5 pt-3 pe-4">
-        <div class="p-3 text-center"><img src="13377.png" alt="logo" width="100" /></div>
+        <div class="p-3 text-center"><img src=".../assets/elephant.png" alt="logo" width="100" /></div>
         <div class="d-flex align-items-center mu mt-4 p-3">
             <img src="https://cdn.icon-icons.com/icons2/1511/PNG/96/homecircularbuttonwithhouseoutlineshape_104751.png" alt="home" width="40" height="40" />
             <div class="ps-2 menu">

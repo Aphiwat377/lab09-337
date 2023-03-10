@@ -126,7 +126,7 @@ onMounted(() => {
         <div class="container h-100 m-0">
             <div class=" border-end h-100">
                 <div class="ps-5 pt-3 pe-4 ">
-                    <div class="p-3 text-center"><img src="13377.png" alt="logo" width="100" />
+                    <div class="p-3 text-center"><img src=".../assets/elephant.png" alt="logo" width="100" />
                     </div>
                     <div class="d-flex align-items-center mu mt-4 p-3">
                         <img src="https://cdn.icon-icons.com/icons2/789/PNG/96/home_icon-icons.com_65240.png" alt="home" width="40" height="40" />
